@@ -38,7 +38,14 @@ docker run jradik/async-cache-warmer -s "<URL1/with/path/to/sitemap.xml>" -s "<U
 
 ## Examples: 
 
+1) 
  
 ![alt text](https://raw.githubusercontent.com/jradikk/async-cache-warmer/master/examples/example1.png)
 ![alt text](https://raw.githubusercontent.com/jradikk/async-cache-warmer/master/examples/example2.png)
+
+
+2)
+
+![alt text](https://raw.githubusercontent.com/jradikk/async-cache-warmer/master/examples/example3.png)
+![alt text](https://raw.githubusercontent.com/jradikk/async-cache-warmer/master/examples/example4.png)
 
