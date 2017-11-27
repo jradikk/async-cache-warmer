@@ -104,5 +104,6 @@ for site in sites:
             failed_links+=1
 
     avg_time = str((sum([ x.total_seconds() for x in time_array]))/len(time_array))
+    print ("\n")
     print (tabulate(results, headers=['URL', 'Response code', 'Time']))
     print (tabulate([[str(failed_links), str(success_links), avg_time]], headers=['Failed', 'Successfull', 'Average Time']))
